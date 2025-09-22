@@ -19,5 +19,3 @@ Color-coded results: True News in green, Fake News in red.
 Shows which model made the prediction for transparency.
 
 Lightweight and easy-to-deploy Flask web app.
-
-
