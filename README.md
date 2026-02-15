@@ -12,10 +12,10 @@ Fake news spreads rapidly on digital platforms and can mislead readers. This app
 
 Two different models are implemented to allow comparison and flexibility:
 
-* **Random Forest Classifier** 🌲
+ **Random Forest Classifier** 🌲
   An ensemble-based model that combines multiple decision trees to improve accuracy and robustness.
 
-* **Logistic Regression** 📊
+ **Logistic Regression** 📊
   A lightweight and efficient linear model that predicts the probability of a news article being real or fake.
 
 Users can select which model to use at runtime.
